@@ -2,7 +2,7 @@
 
           Materia: Programacion de Sistemas Base 2
       Institución: Universidad Autonoma de Tamaulipas
-        Semestre: Noveno Semestre de 2025 Grupo: I
+        Semestre: Noveno Semestre de 2025 Grupo: J
           Profesor: Muñoz Quintero Dante Adolfo
                   Integrantes del Equipo:
                     Ruiz Gómez Andres
